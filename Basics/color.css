@@ -1,0 +1,14 @@
+<style>
+ 
+  body {
+  	color: green;
+  } 
+ .mydiv {
+ 	color: red;
+  }
+ </style> 
+ <body>
+  <div class="mydiv"> 
+ <p>Some text</p>
+  </div> 
+ </body>
